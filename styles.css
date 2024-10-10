@@ -1,0 +1,28 @@
+body {
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: #05050f;
+    color: white;
+}
+
+main {
+    padding-left: 0%;
+    padding-right: 0%;
+    text-align: center;
+}
+
+.metric {
+    background-color: white;
+    border: 2px solid black;
+    padding: 0px 0px;
+    margin: 10px 100px;
+}
+
+button {
+    background-color: white;
+    padding: 7px 15px;
+    border-radius: 20px;
+}
